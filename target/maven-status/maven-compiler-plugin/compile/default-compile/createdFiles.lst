@@ -1,0 +1,12 @@
+com\app\api2\artcile\Connexion.class
+com\app\api2\artcile\Produit.class
+com\app\api2\metier\UserMetier.class
+com\app\api2\artcile\User.class
+com\app\api2\metier\ProduitMetier.class
+com\app\api2\vue\Main.class
+com\app\api2\artcile\UserDAO.class
+com\app\api2\vue\Authentification$1.class
+com\app\api2\artcile\ProduitDAO.class
+com\app\api2\vue\Authentification.class
+com\app\api2\vue\Welcome.class
+com\app\api2\vue\Welcome$1.class
